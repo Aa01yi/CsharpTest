@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\CSProject\Test_Control\bin\Debug\Test_Control.exe.config
+C:\Users\admin\Documents\CSProject\Test_Control\bin\Debug\Test_Control.exe
+C:\Users\admin\Documents\CSProject\Test_Control\bin\Debug\Test_Control.pdb
+C:\Users\admin\Documents\CSProject\Test_Control\obj\Debug\Test_Control.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\CSProject\Test_Control\obj\Debug\Test_Control.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CSProject\Test_Control\obj\Debug\Test_Control.exe
+C:\Users\admin\Documents\CSProject\Test_Control\obj\Debug\Test_Control.pdb
