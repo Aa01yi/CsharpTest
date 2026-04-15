@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\obj\Debug\TIA Installation Assistant.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\obj\Debug\TIA Installation Assistant.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\bin\Debug\TIA Installation Assistant.exe.config
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\bin\Debug\TIA Installation Assistant.exe
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\bin\Debug\TIA Installation Assistant.pdb
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\obj\Debug\TIA Installation Assistant.exe
+C:\Users\admin\Documents\CSProject\TIA Installation Assistant\obj\Debug\TIA Installation Assistant.pdb
